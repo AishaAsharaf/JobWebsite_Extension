@@ -1,0 +1,27 @@
+body{
+    margin :0px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-div{
+    margin-top: 10px;
+}
+
+#input-el{
+   border:1px solid #5f9341;
+   border-radius: 2px;
+   height:25px;
+   box-sizing: border-box;
+   padding: 0px 10px;
+   width: 100%;
+
+}
+
+#input-btn{
+    background-color: #5f9341;
+    color: azure;
+    padding:5px 10px ;
+    font-weight: bolder;
+    border-style: none;
+}
