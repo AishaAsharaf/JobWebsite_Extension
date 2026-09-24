@@ -10,7 +10,7 @@ body{
 }
 
 #input-el{
-   border:1px solid #5f9341;
+   border:1px solid #9a61ef;
    border-radius: 2px;
    height:25px;
    box-sizing: border-box;
@@ -20,7 +20,7 @@ body{
 }
 
 #input-btn{
-    background-color: #5f9341;
+    background-color: #9a61ef;
     color: azure;
     padding:5px 10px ;
     font-weight: bolder;
@@ -28,7 +28,7 @@ body{
 }
 
 #savetab-btn{
-    background-color: #5f9341;
+    background-color: #9a61ef;
     color: azure;
     padding:5px 10px ;
     font-weight: bolder;
@@ -37,11 +37,11 @@ body{
 
 #delete-btn{
     background-color: rgb(255, 255, 255);
-    color: #5f9341;
+    color: #9a61ef;
     padding:5px 10px ;
     font-weight: bolder;
     border-style: none;
-    border:1px solid #5f9341;
+    border:1px solid #9a61ef;
 }
 
 #ul-el{
@@ -54,5 +54,5 @@ li{
 }
 
 a{
-    color:  #5f9341;
+    color:  #9a61ef;
 }
