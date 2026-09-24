@@ -3,6 +3,9 @@
     "version":"1.0",
     "name":"Job Tracker",
     "description": "My job website extension",
+    "permissions": [
+    "tabs"
+    ],
     "action":{
         "default_popup":"index.html",
         "default_icon":"icon.png"
